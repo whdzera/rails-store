@@ -1,5 +1,5 @@
-en:
+id:
   hello: "Hello world"
   products:
     index:
-      title: "Products"
+      title: "Produk"
